@@ -54,11 +54,136 @@
       "name": "cuong123",
       "pasword": "19112",
       "id": 12
+    }
+  ],
+  "product": [
+    {
+      "vest": [
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        }
+      ]
     },
     {
-      "name": "cuong123",
-      "pasword": "19112",
-      "id": 13
+      "somi": [
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        },
+        {
+          "image_product": "assets/image/image_home/bst_moi1.png",
+          "name_product": "ÁO VEST GHI KẺ LH69",
+          "price_product": "2,950,000₫"
+        }
+      ]
     }
   ]
 }
