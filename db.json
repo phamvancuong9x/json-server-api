@@ -60,93 +60,171 @@
     {
       "typeProduct": "vest",
       "id": "c1",
-      "image_product": "assets/image/image_home/bst_moi1.png",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,950,000₫"
+      "price_product": "2,700,000₫",
+      "isSale": "true",
+      "discount_sale": "10%",
+      "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
       "id": "c2",
-      "image_product": "assets/image/image_home/bst_moi1.png",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,950,000₫"
+      "price_product": "2,700,000₫",
+      "isSale": "true",
+      "discount_sale": "10%",
+      "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
       "id": "c2",
-      "image_product": "assets/image/image_home/bst_moi1.png",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,950,000₫"
+      "price_product": "2,700,000₫",
+      "isSale": "true",
+      "discount_sale": "10%",
+      "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
       "id": "c4",
-      "image_product": "assets/image/image_home/bst_moi1.png",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,950,000₫"
+      "price_product": "2,700,000₫",
+      "isSale": "true",
+      "discount_sale": "10%",
+      "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
       "id": "c5",
-      "image_product": "assets/image/image_home/bst_moi1.png",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,950,000₫"
+      "price_product": "2,700,000₫",
+      "isSale": "true",
+      "discount_sale": "10%",
+      "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
       "id": "c6",
-      "image_product": "assets/image/image_home/bst_moi1.png",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,950,000₫"
+      "price_product": "2,700,000₫",
+      "isSale": "true",
+      "discount_sale": "10%",
+      "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
       "id": "c7",
-      "image_product": "assets/image/image_home/bst_moi1.png",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,950,000₫"
+      "price_product": "2,700,000₫",
+      "isSale": "true",
+      "discount_sale": "10%",
+      "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
       "id": "c8",
-      "image_product": "assets/image/image_home/bst_moi1.png",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,950,000₫"
+      "price_product": "2,700,000₫",
+      "isSale": "true",
+      "discount_sale": "10%",
+      "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
       "id": "c9",
-      "image_product": "assets/image/image_home/bst_moi1.png",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,950,000₫"
+      "price_product": "2,700,000₫",
+      "isSale": "true",
+      "discount_sale": "10%",
+      "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
       "id": "c10",
-      "image_product": "assets/image/image_home/bst_moi1.png",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,950,000₫"
+      "price_product": "2,700,000₫",
+      "isSale": "true",
+      "discount_sale": "10%",
+      "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
       "id": "c11",
-      "image_product": "assets/image/image_home/bst_moi1.png",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,950,000₫"
+      "price_product": "2,700,000₫",
+      "isSale": "true",
+      "discount_sale": "10%",
+      "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
       "id": "c12",
-      "image_product": "assets/image/image_home/bst_moi1.png",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,950,000₫"
+      "price_product": "2,700,000₫",
+      "isSale": "true",
+      "discount_sale": "10%",
+      "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "somi",
       "id": "c13",
-      "image_product": "assets/image/image_home/bst_moi1.png",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,950,000₫"
+      "price_product": "2,700,000₫",
+      "isSale": "true",
+      "discount_sale": "10%",
+      "initialPrice": "3,000,000₫"
     }
   ]
 }
