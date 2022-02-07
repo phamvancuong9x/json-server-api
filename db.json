@@ -837,6 +837,76 @@
       "isSale": "true",
       "discount_sale": "10%",
       "initialPrice": "800,000₫"
+    },
+    {
+      "typeProduct": "giay",
+      "id": "g1",
+      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_den_li_G6262D_1-1.jpg",
+      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_den_li_G6262D_2-1.jpg",
+      "image_product_3": "",
+      "image_product_4": "",
+      "name_product": "GIÀY DA NAM ĐEN LÌ G6262D",
+      "describe": "Giày da nam đen lì G6262D tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày da nam G407 có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
+      "price_product": "1,570,000₫",
+      "isSale": "false",
+      "discount_sale": "null",
+      "initialPrice": "null"
+    },
+    {
+      "typeProduct": "giay",
+      "id": "g2",
+      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_san_40712BM_1-2.jpg",
+      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_san_40712BM_2-2.jpg",
+      "image_product_3": "",
+      "image_product_4": "",
+      "name_product": "GIÀY LƯỜI NAM DA SẦN 40712BM",
+      "describe": "Giày lười nam công sở da sần 407 tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày da nam G407 có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
+      "price_product": "1,470,000₫",
+      "isSale": "false",
+      "discount_sale": "null",
+      "initialPrice": "null"
+    },
+    {
+      "typeProduct": "giay",
+      "id": "g3",
+      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_den_bong_1805-62_1-3.jpg",
+      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_den_bong_1805-62_2-3.jpg",
+      "image_product_3": "",
+      "image_product_4": "",
+      "name_product": "GIÀY DA NAM ĐEN BÓNG 1805-62",
+      "describe": "Giày da nam đen bóng 1805 tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày da nam G407 có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
+      "price_product": "1,500,000₫",
+      "isSale": "false",
+      "discount_sale": "null",
+      "initialPrice": "null"
+    },
+    {
+      "typeProduct": "giay",
+      "id": "g4",
+      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_den_chuong_M5L22D_1-4.jpg",
+      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_den_chuong_M5L22D_2-4.jpg",
+      "image_product_3": "",
+      "image_product_4": "",
+      "name_product": "GIÀY DA NAM LOAFER ĐEN CHUÔNG M5L22D",
+      "describe": "Giày nam loafer đen chuông G212 tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày da nam G407 có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
+      "price_product": "1,770,000₫",
+      "isSale": "false",
+      "discount_sale": "null",
+      "initialPrice": "null"
+    },
+    {
+      "typeProduct": "giay",
+      "id": "g5",
+      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_den_han_quoc_40624_1-5.jpg",
+      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_den_han_quoc_40624_2-5.jpg",
+      "image_product_3": "",
+      "image_product_4": "",
+      "name_product": "GIÀY DA NAM HÀN QUỐC 40624 ĐEN",
+      "describe": "Giày da lười nam Hàn Quốc 40624 ĐEN tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày da nam G407 có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
+      "price_product": "1,570,000₫",
+      "isSale": "false",
+      "discount_sale": "null",
+      "initialPrice": "null"
     }
   ]
 }
