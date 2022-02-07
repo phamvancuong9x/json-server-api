@@ -295,10 +295,10 @@
     {
       "typeProduct": "vest",
       "id": "c19",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_1-19.jpg.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_2-19.jpg.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_3-19.jpg.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_4-19.jpg.jpg",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_1-19.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_2-19.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_3-19.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_4-19.jpg",
       "name_product": "ÁO VEST ĐEN KẺ VUÔNG AV252",
       "price_product": "2,9500,000₫",
       "isSale": "false",
@@ -372,7 +372,7 @@
     },
     {
       "typeProduct": "somi",
-      "id": "c13",
+      "id": "d1",
       "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
       "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
       "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
