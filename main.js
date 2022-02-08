@@ -9,6 +9,7 @@ server.use(middlewares);
 // Add custom routes before JSON Server router
 server.get("/echo", (req, res) => {
   res.jsonp(req.query);
+  
 });
 
 // To handle POST, PUT and PATCH you need to use a body-parser
