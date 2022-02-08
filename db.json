@@ -655,6 +655,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM VÀNG 4QAVB006VAG",
       "price_product": "800,000₫",
+      "descripbe": "",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
@@ -668,6 +669,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM ĐỎ KẺ 4QAVC009DOD",
       "price_product": "700,000₫",
+      "descripbe": "",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
@@ -681,6 +683,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM XAM KẺ 4QAVC010GHS",
       "price_product": "850,000₫",
+      "descripbe": "",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
@@ -694,6 +697,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM XANH 4QAVC011XAH",
       "price_product": "800,000₫",
+      "descripbe": "",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
@@ -707,6 +711,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM XANH 4QAVC011TTT",
       "price_product": "800,000₫",
+      "descripbe": "",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
@@ -720,6 +725,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM TIM THAN SÁNG",
       "price_product": "850,000₫",
+      "descripbe": "",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
@@ -733,6 +739,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM ĐEN",
       "price_product": "750,000₫",
+      "descripbe": "",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
@@ -746,6 +753,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM XANH 4QAVB006XAH",
       "price_product": "800,000₫",
+      "descripbe": "",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
@@ -759,6 +767,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM XANH 4QAVH004XAH",
       "price_product": "850,000₫",
+      "descripbe": "",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
@@ -772,6 +781,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM ĐEN 4QAVC008DEN",
       "price_product": "800,000₫",
+      "descripbe": "",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
@@ -785,6 +795,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM 4QAVB006CME",
       "price_product": "750,000₫",
+      "descripbe": "",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
@@ -798,6 +809,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM XÁM 4QAVB006XLM",
       "price_product": "800,000₫",
+      "descripbe": "",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
@@ -811,6 +823,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM 4QAVB005XNH",
       "price_product": "810,000₫",
+      "descripbe": "",
       "isSale": "true",
       "discount_sale": "10%",
       "initialPrice": "900,000₫"
@@ -824,6 +837,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM 4QAVB008GHX",
       "price_product": "640,000₫",
+      "descripbe": "",
       "isSale": "true",
       "discount_sale": "20%",
       "initialPrice": "800,000₫"
@@ -837,6 +851,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM 4QAVB005BEV",
       "price_product": "810,000₫",
+      "descripbe": "",
       "isSale": "true",
       "discount_sale": "10%",
       "initialPrice": "900,000₫"
@@ -850,6 +865,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM 4QAVB005BES",
       "price_product": "720,000₫",
+      "descripbe": "",
       "isSale": "true",
       "discount_sale": "20%",
       "initialPrice": "900,000₫"
@@ -863,6 +879,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM 4QAVB006XNH",
       "price_product": "810,000₫",
+      "descripbe": "",
       "isSale": "true",
       "discount_sale": "10%",
       "initialPrice": "900,000₫"
@@ -876,6 +893,7 @@
       "image_product_4": "",
       "name_product": "QUẦN ÂU NAM 4QAVC006XAH",
       "price_product": "710,000₫",
+      "descripbe": "",
       "isSale": "true",
       "discount_sale": "10%",
       "initialPrice": "800,000₫"
