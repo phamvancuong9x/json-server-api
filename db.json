@@ -65,12 +65,12 @@
       "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
       "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
       "name_product": "ÁO VEST GHI KẺ LH69",
-      "price_product": "2,700,000₫",
+      "price_product": "2,950,000₫",
       "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
       "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
-      "isSale": "true",
-      "discount_sale": "-10%",
-      "initialPrice": "3,000,000₫"
+      "isSale": "false",
+      "discount_sale": "null",
+      "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
@@ -79,13 +79,13 @@
       "image_product_2": "assets/image/image_product-detail/vest/Vest_LH67_2-2.jpg",
       "image_product_3": "assets/image/image_product-detail/vest/Vest_LH67_3-2.jpg",
       "image_product_4": "assets/image/image_product-detail/vest/Vest_LH67_4-2.jpg",
-      "name_product": "ÁO VEST  GHI KẺ LH67",
-      "price_product": "2,700,000₫",
+      "name_product": "ÁO VEST  GHI KẺ LH67-A",
+      "price_product": "2,900,000₫",
       "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
       "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
-      "isSale": "true",
-      "discount_sale": "-10%",
-      "initialPrice": "3,000,000₫"
+      "isSale": "false",
+      "discount_sale": "null",
+      "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
@@ -95,12 +95,12 @@
       "image_product_3": "assets/image/image_product-detail/vest/Vest_263_3-3.jpg",
       "image_product_4": "assets/image/image_product-detail/vest/Vest_263_4-3.jpg",
       "name_product": "ÁO VEST KẺ XANH - 263",
-      "price_product": "2,700,000₫",
+      "price_product": "2,950,000₫",
       "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
       "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
-      "isSale": "true",
-      "discount_sale": "-10%",
-      "initialPrice": "3,000,000₫"
+      "isSale": "false",
+      "discount_sale": "null",
+      "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
@@ -110,12 +110,12 @@
       "image_product_3": "assets/image/image_product-detail/vest/Vest_BE_AV_256_3-4.jpg",
       "image_product_4": "assets/image/image_product-detail/vest/Vest_BE_AV_256_4-4.jpg",
       "name_product": "ÁO VEST  BE AV256",
-      "price_product": "2,700,000₫",
+      "price_product": "2,900,000₫",
       "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
       "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
-      "isSale": "true",
-      "discount_sale": "-10%",
-      "initialPrice": "3,000,000₫"
+      "isSale": "false",
+      "discount_sale": "null",
+      "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
@@ -417,6 +417,52 @@
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
+    },
+    {
+      "typeProduct": "vest",
+      "id": "c25",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH67_1-2.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH67_2-2.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH67_3-2.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH67_4-2.jpg",
+      "name_product": "ÁO VEST  GHI KẺ LH67-B",
+      "price_product": "2,700,000₫",
+      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
+      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "isSale": "true",
+      "discount_sale": "-10%",
+      "initialPrice": "3,000,000₫"
+    },
+    {
+      "typeProduct": "vest",
+      "id": "c26",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_den_soc-286_1-25.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_den_soc-286_2-25.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_den_soc-286_3-25.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_den_soc-286_4-25.jpg",
+      "name_product": "ÁO VEST ĐEN SỌC 286",
+      "price_product": "2,700,000₫",
+      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
+      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "isSale": "true",
+      "discount_sale": "-10%",
+      "initialPrice": "3,000,000₫"
+    },
+    ,
+    {
+      "typeProduct": "vest",
+      "id": "c27",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_TT_ke-245_1-26.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_TT_ke-245_2-26.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_TT_ke-245_3-26.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_TT_ke-245_4-26.jpg",
+      "name_product": "ÁO VEST XANH TT KẺ 245",
+      "price_product": "2,700,000₫",
+      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
+      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "isSale": "true",
+      "discount_sale": "-10%",
+      "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "somi",
