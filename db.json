@@ -464,6 +464,21 @@
       "initialPrice": "3,000,000₫"
     },
     {
+      "typeProduct": "vest",
+      "id": "c28",
+      "image_product_1": "assets/image/image_product-detail/vest/Vest_xanh-ke-vuong-LH63_1-28.jpg",
+      "image_product_2": "assets/image/image_product-detail/vest/Vest_xanh-ke-vuong-LH63_2-28.jpg",
+      "image_product_3": "assets/image/image_product-detail/vest/Vest_xanh-ke-vuong-LH63_3-28.jpg",
+      "image_product_4": "assets/image/image_product-detail/vest/Vest_xanh-ke-vuong-LH63_4-28.jpg",
+      "name_product": "ÁO VEST XANH KẺ VUÔNG LH63",
+      "price_product": "2,950,000₫",
+      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
+      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "isSale": "false",
+      "discount_sale": "null",
+      "initialPrice": "null"
+    },
+    {
       "typeProduct": "somi",
       "id": "d1",
       "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_hong_SMBB04_1-1.jpg",
