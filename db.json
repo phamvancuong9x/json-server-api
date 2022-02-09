@@ -1378,5 +1378,6 @@
       "discount_sale": "null",
       "initialPrice": "null"
     }
-  ]
+  ],
+  "cart": []
 }
