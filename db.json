@@ -3,7 +3,17 @@
     {
       "id": 1,
       "name": "Phamvancuong",
-      "password": "123456"
+      "password": "123456",
+      "cart": [
+        {
+          "id_product": "c6",
+          "image_product": "assets/image/image_product-detail/vest/Vest_den_LH64_2-6.jpg",
+          "name_product": "ÁO VEST XANH KẺ ĐEN LH64",
+          "price_product": "2,700,000₫",
+          "size_product": "48",
+          "quantity_product": "1"
+        }
+      ]
     },
     {
       "id": 2,
