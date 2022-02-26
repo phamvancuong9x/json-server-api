@@ -9,52 +9,50 @@
     {
       "id": 2,
       "name": "Phamvancuong",
-      "password": "1234567"
+      "password": "1234567",
+      "cart": []
     },
     {
       "name": "anhcuonggt",
       "password": "123456",
-      "id": 3
+      "id": 3,
+      "cart": []
     },
     {
       "name": "cuongbg",
       "password": "123456",
-      "id": 4
+      "id": 4,
+      "cart": []
     },
     {
       "name": "123456",
       "password": "123456",
-      "id": 5
+      "id": 5,
+      "cart": []
     },
     {
       "name": "anhcuonga51993",
       "password": "cuonga51993",
-      "id": 6
+      "id": 6,
+      "cart": []
     },
     {
       "name": "phamvancuong",
       "password": "123456",
-      "id": 7
+      "id": 7,
+      "cart": []
     },
     {
       "name": "test1234",
       "password": "test1234",
-      "id": 9
+      "id": 9,
+      "cart": []
     },
     {
       "name": "Phamvancuong",
       "password": "123456789",
-      "id": 10
-    },
-    {
-      "name": "cuong123",
-      "age": "19112",
-      "id": 11
-    },
-    {
-      "name": "cuong123",
-      "pasword": "19112",
-      "id": 12
+      "id": 10,
+      "cart": []
     }
   ],
   "categoryProduct": [
